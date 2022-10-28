@@ -1,0 +1,5 @@
+/home/runner/cadastro-de-clientes/obj/Debug/net6.0/main.csproj.AssemblyReference.cache
+/home/runner/cadastro-de-clientes/obj/Debug/net6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/cadastro-de-clientes/obj/Debug/net6.0/main.AssemblyInfoInputs.cache
+/home/runner/cadastro-de-clientes/obj/Debug/net6.0/main.AssemblyInfo.cs
+/home/runner/cadastro-de-clientes/obj/Debug/net6.0/main.csproj.CoreCompileInputs.cache
